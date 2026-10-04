@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Calculateur IMC</string>
+    <string name="titre">Calcul de l\'IMC</string>
+    <string name="poids_label">Poids (kg)</string>
+    <string name="taille_label">Taille (m)</string>
+    <string name="btn_calculer">Calculer</string>
+    <string name="btn_effacer">Effacer</string>
+    <!-- %1$.2f sera remplacé par la valeur de l'IMC -->
+    <string name="resultat_imc_val">Votre IMC : %1$.2f</string>
+    <!-- %1$s sera remplacé par le nom de la catégorie -->
+    <string name="resultat_categorie_val">Catégorie : %1$s</string>
+    <string name="erreur_vide">Veuillez remplir ce champ</string>
+    <string name="erreur_valeur">La valeur doit être supérieure à 0</string>
+    <string name="init_imc">Votre IMC : --</string>
+    <string name="init_cat">Catégorie : --</string>
+</resources>
